@@ -1,0 +1,6 @@
+{
+  "name": "Profil Menu Restoran",
+  "description": "Aplikasi Profil & Menu Restoran dengan SharedPreferences dan Jetpack Navigation",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
